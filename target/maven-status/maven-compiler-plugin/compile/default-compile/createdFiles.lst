@@ -16,6 +16,7 @@ JavaAPI/Services/Interface/ExecuteServiceInterface.class
 JavaAPI/Services/Impl/CategoryServiceImpl.class
 JavaAPI/Services/Impl/TokenServiceImpl.class
 JavaAPI/DTO/ArticleViewDTO.class
+JavaAPI/Controller/test.class
 JavaAPI/Model/Article.class
 JavaAPI/Config/MyWebAppInitializer.class
 JavaAPI/Model/Category.class
