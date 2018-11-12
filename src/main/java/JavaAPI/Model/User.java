@@ -7,7 +7,7 @@ import java.util.List;
 
 @Entity
 @Table(name = "user", schema = "jfzv4qj56bw65xyy")
-@org.hibernate.annotations.Cache(usage = CacheConcurrencyStrategy.READ_WRITE)
+//@org.hibernate.annotations.Cache(usage = CacheConcurrencyStrategy.READ_WRITE)
 public class User {
     @Id
     @GeneratedValue

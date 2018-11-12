@@ -21,7 +21,7 @@ import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;
 
-@Controller
+@RestController
 @RequestMapping("article")
 public class ArticleController {
 
