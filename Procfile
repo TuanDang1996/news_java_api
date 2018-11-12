@@ -1,1 +1,1 @@
-java $JAVA_OPTS -jar target/NewsJavaAPI-1.0-SNAPSHOT.jar --server.port=$PORT $JAR_OPTS
+web: java -Dserver.port=$PORT target/NewsJavaAPI-1.0-SNAPSHOT.jar
