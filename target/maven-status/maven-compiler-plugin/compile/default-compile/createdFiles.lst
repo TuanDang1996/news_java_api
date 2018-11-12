@@ -17,8 +17,9 @@ JavaAPI/Services/Impl/CategoryServiceImpl.class
 JavaAPI/Services/Impl/TokenServiceImpl.class
 JavaAPI/DTO/ArticleViewDTO.class
 JavaAPI/Controller/test.class
+JavaAPI/Config/HttpsEnforcer.class
 JavaAPI/Model/Article.class
-JavaAPI/Config/MyWebAppInitializer.class
+JavaAPI/Main.class
 JavaAPI/Model/Category.class
 JavaAPI/Services/Impl/UserServicesImpl.class
 JavaAPI/Controller/TokenController.class
@@ -32,7 +33,6 @@ JavaAPI/Model/Pictures.class
 JavaAPI/DAO/Impl/TokenImpl.class
 JavaAPI/DAO/Interface/ArticleDAO.class
 JavaAPI/Model/Token.class
-JavaAPI/Config/WebConfig.class
 JavaAPI/DAO/Interface/TokenDAO.class
 JavaAPI/Controller/UserController.class
 JavaAPI/filters/CORSFilter.class

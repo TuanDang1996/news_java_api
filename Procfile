@@ -1,1 +1,1 @@
-web:    java -jar target/dependency/webapp-runner.jar target/*.war
+java $JAVA_OPTS -jar target/NewsJavaAPI-1.0-SNAPSHOT.jar --server.port=$PORT $JAR_OPTS

@@ -4,7 +4,7 @@ import com.fasterxml.jackson.annotation.JsonIgnore;
 
 import javax.persistence.*;
 
-@Table(name = "pictures", schema = "jfzv4qj56bw65xyy")
+@Table(name = "pictures", schema = "newsdb")
 @Entity
 public class Pictures {
     @Id

@@ -6,7 +6,7 @@ import javax.persistence.*;
 import java.util.List;
 
 @Entity
-@Table(name = "user", schema = "jfzv4qj56bw65xyy")
+@Table(name = "user", schema = "newsdb")
 //@org.hibernate.annotations.Cache(usage = CacheConcurrencyStrategy.READ_WRITE)
 public class User {
     @Id
@@ -23,7 +23,7 @@ public class User {
     private String picture;
 
     @ManyToMany(fetch = FetchType.EAGER, cascade = CascadeType.ALL)
-    @JoinTable(name = "favorite_category", catalog = "jfzv4qj56bw65xyy", joinColumns = {
+    @JoinTable(name = "favorite_category", catalog = "newsdb", joinColumns = {
             @JoinColumn(name = "accountId", referencedColumnName = "id")
     }, inverseJoinColumns = {@JoinColumn(name = "categoryId", referencedColumnName = "id")})
     private List<FavoriteCategory> categories;

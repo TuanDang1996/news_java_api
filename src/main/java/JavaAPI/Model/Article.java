@@ -7,7 +7,7 @@ import java.util.Date;
 import java.util.List;
 
 @Entity
-@Table(name = "article", schema = "jfzv4qj56bw65xyy")
+@Table(name = "article", schema = "newsdb")
 public class Article {
     @Id
     @GeneratedValue

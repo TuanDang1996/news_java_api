@@ -1,11 +1,9 @@
 /Users/tuanh/Downloads/NewsJavaAPI/src/main/java/JavaAPI/DAO/AbstractDao.java
 /Users/tuanh/Downloads/NewsJavaAPI/src/main/java/JavaAPI/Model/FavoriteCategory.java
-/Users/tuanh/Downloads/NewsJavaAPI/src/main/java/JavaAPI/Config/WebConfig.java
 /Users/tuanh/Downloads/NewsJavaAPI/src/main/java/JavaAPI/Services/Interface/CategoryServices.java
 /Users/tuanh/Downloads/NewsJavaAPI/src/main/java/JavaAPI/DAO/Interface/UserDAO.java
 /Users/tuanh/Downloads/NewsJavaAPI/src/main/java/JavaAPI/DAO/Interface/TokenDAO.java
 /Users/tuanh/Downloads/NewsJavaAPI/src/main/java/JavaAPI/Services/Impl/UserServicesImpl.java
-/Users/tuanh/Downloads/NewsJavaAPI/src/main/java/JavaAPI/Config/MyWebAppInitializer.java
 /Users/tuanh/Downloads/NewsJavaAPI/src/main/java/JavaAPI/Model/EmptyResponse.java
 /Users/tuanh/Downloads/NewsJavaAPI/src/main/java/JavaAPI/DAO/Interface/ArticleDAO.java
 /Users/tuanh/Downloads/NewsJavaAPI/src/main/java/JavaAPI/Framework/NamedParameterStatement.java
@@ -21,6 +19,7 @@
 /Users/tuanh/Downloads/NewsJavaAPI/src/main/java/JavaAPI/Services/Interface/UserServices.java
 /Users/tuanh/Downloads/NewsJavaAPI/src/main/java/JavaAPI/Model/User.java
 /Users/tuanh/Downloads/NewsJavaAPI/src/main/java/JavaAPI/DAO/Interface/FavoriteCategoryDAO.java
+/Users/tuanh/Downloads/NewsJavaAPI/src/main/java/JavaAPI/Main.java
 /Users/tuanh/Downloads/NewsJavaAPI/src/main/java/JavaAPI/DAO/Interface/PicturesDAO.java
 /Users/tuanh/Downloads/NewsJavaAPI/src/main/java/JavaAPI/Services/Interface/TokenServices.java
 /Users/tuanh/Downloads/NewsJavaAPI/src/main/java/JavaAPI/filters/CORSFilter.java
@@ -39,6 +38,7 @@
 /Users/tuanh/Downloads/NewsJavaAPI/src/main/java/JavaAPI/DTO/CategoryDTO.java
 /Users/tuanh/Downloads/NewsJavaAPI/src/main/java/JavaAPI/Services/Interface/ArticleServices.java
 /Users/tuanh/Downloads/NewsJavaAPI/src/main/java/JavaAPI/Controller/ArticleController.java
+/Users/tuanh/Downloads/NewsJavaAPI/src/main/java/JavaAPI/Config/HttpsEnforcer.java
 /Users/tuanh/Downloads/NewsJavaAPI/src/main/java/JavaAPI/Controller/test.java
 /Users/tuanh/Downloads/NewsJavaAPI/src/main/java/JavaAPI/DTO/ArticleViewDTO.java
 /Users/tuanh/Downloads/NewsJavaAPI/src/main/java/JavaAPI/Model/Article.java

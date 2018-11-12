@@ -6,7 +6,7 @@ import org.hibernate.annotations.CollectionId;
 import javax.persistence.*;
 
 @Entity
-@Table(name = "token", schema = "jfzv4qj56bw65xyy")
+@Table(name = "token", schema = "newsdb")
 //@org.hibernate.annotations.Cache(usage = CacheConcurrencyStrategy.READ_WRITE)
 public class Token {
     @Id
