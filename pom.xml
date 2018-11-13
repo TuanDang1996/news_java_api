@@ -7,7 +7,7 @@
     <groupId>NewsJavaAPI</groupId>
     <artifactId>NewsJavaAPI</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
 
     <properties>
         <spring.version>4.3.6.RELEASE</spring.version>
@@ -171,7 +171,7 @@
                         <target>1.8</target>
                     </configuration>
                 </plugin>
-                <plugin>
+                <!--<plugin>
                     <groupId>org.apache.tomcat.maven</groupId>
                     <artifactId>tomcat7-maven-plugin</artifactId>
                     <version>2.2</version>
@@ -180,7 +180,7 @@
                         <port>8080</port>
                         <uriEncoding>UTF-8</uriEncoding>
                     </configuration>
-                </plugin>
+                </plugin>-->
             </plugins>
         </pluginManagement>
     </build>
