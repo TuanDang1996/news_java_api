@@ -28,6 +28,7 @@
 /Users/tuanh/Downloads/NewsJavaAPI/src/main/java/JavaAPI/DAO/Impl/TokenImpl.java
 /Users/tuanh/Downloads/NewsJavaAPI/src/main/java/JavaAPI/DTO/FavoriteCategoriesDTO.java
 /Users/tuanh/Downloads/NewsJavaAPI/src/main/java/JavaAPI/Model/Token.java
+/Users/tuanh/Downloads/NewsJavaAPI/src/main/java/JavaAPI/Config/WebSecurityConfig.java
 /Users/tuanh/Downloads/NewsJavaAPI/src/main/java/JavaAPI/Controller/TokenController.java
 /Users/tuanh/Downloads/NewsJavaAPI/src/main/java/JavaAPI/Config/AppConfig.java
 /Users/tuanh/Downloads/NewsJavaAPI/src/main/java/JavaAPI/Controller/UserController.java

@@ -25,6 +25,7 @@ JavaAPI/Controller/TokenController.class
 JavaAPI/Services/Interface/CategoryServices.class
 JavaAPI/DAO/Interface/UserDAO.class
 JavaAPI/DAO/Interface/CategoryDAO.class
+JavaAPI/Config/WebSecurityConfig.class
 JavaAPI/DAO/AbstractDao.class
 JavaAPI/Model/User.class
 JavaAPI/DAO/Impl/ArticleImpl.class
